@@ -1,0 +1,8 @@
+name: ${project.name}
+author: DreamVoid
+description: ${project.description}
+main: me.dreamvoid.bundlerecipe.BukkitPlugin
+version: ${project.version}
+api-version: 1.17
+prefix: DreamVoidPlugin
+webside: ${project.url}
