@@ -6,7 +6,7 @@
 
     <groupId>io.github.dreamvoid</groupId>
     <artifactId>BundleRecipe</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
     <name>BundleRecipe</name>
     <description>Add bundle recipe to 1.17 and 1.18 server.</description>
