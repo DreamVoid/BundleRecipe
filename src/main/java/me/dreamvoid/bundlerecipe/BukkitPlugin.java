@@ -19,6 +19,6 @@ public class BukkitPlugin extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        Bukkit.clearRecipes();
+        Bukkit.removeRecipe(new NamespacedKey(this, "bundle"));
     }
 }
